@@ -36,7 +36,7 @@
 
    **数据收集和缓存策略的实现流程**
 
-<img src="C:\Users\zcc\AppData\Roaming\Typora\typora-user-images\image-20240303085800638.png" alt="image-20240303085800638" style="zoom:80%;" />
+<img src="https://s2.loli.net/2024/03/03/jWFrf34zI6YeZRC.png" alt="image-20240303085800638.png" style="zoom:80%;" />
 
 **可视化服务提供者执行流程**
 
